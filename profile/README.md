@@ -6,10 +6,10 @@ This project aims to guide someone to improving their English communication skil
 
 ## 📲 Preview/Screenshot
 <p align="center">
-  <img src="/assets/image1.jpg?raw=true" alt="list chat" width="220" height="500">
-  <img src="/assets/image2.jpg?raw=true" alt="chatting" width="220" height="500">
-  <img src="/assets/image3.jpg?raw=true" alt="dictionary" width="220" height="500">
-  <img src="/assets/image4.jpg?raw=true" alt="profile" width="220" height="500">
+  <img src="/assets/image1.jpg?raw=true" alt="list chat" width="200" height="500">
+  <img src="/assets/image2.jpg?raw=true" alt="chatting" width="200" height="500">
+  <img src="/assets/image3.jpg?raw=true" alt="dictionary" width="200" height="500">
+  <img src="/assets/image4.jpg?raw=true" alt="profile" width="200" height="500">
 </p>
 
 ## 🖥️ Repositories
