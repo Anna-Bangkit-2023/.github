@@ -5,7 +5,12 @@
 This project aims to guide someone to improving their English communication skills. Leveraging advanced technologies like Natural Language Processing (NLP) and Machine Learning (ML), the team plans to create an interactive and effective language learning environment for users. The application will utilize ChatGPT-4 for NLP and incorporate speech recognition for ML, including text-to-speech and speech-to-text functionalities. 
 
 ## 📲 Preview/Screenshot
-some screenshot image of the apps
+<p align="center">
+  <img src="/assets/image1.jpg?raw=true" alt="list chat" width="220" height="500">
+  <img src="/assets/image2.jpg?raw=true" alt="chatting" width="220" height="500">
+  <img src="/assets/image3.jpg?raw=true" alt="dictionary" width="220" height="500">
+  <img src="/assets/image4.jpg?raw=true" alt="profile" width="220" height="500">
+</p>
 
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |
